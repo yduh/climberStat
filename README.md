@@ -59,7 +59,9 @@ Nevertheless, when you happen to be in the US or in the East Europe, consider th
 
 ## Documentation:
 The analysis is used to make the plots seen in my Medium Article "[How long could it take to climb my first 8a?](https://kate-d.medium.com/how-long-could-it-take-to-climb-my-first-8a-d841f2573518)".   
-The code is put in `ClimbingLogbook_Analyses.ipynb`, or easy reading on nbviewer [here](https://nbviewer.org/github/yduh/climberStat/blob/main/ClimbingLogbook_Analyses.ipynb).
+The code is put in `ClimbingLogbook_Analyses.ipynb`, or easy reading on nbviewer [here](https://nbviewer.org/github/yduh/climberStat/blob/main/climbingLogbook_Analyses.ipynb).
+
+Meanwhile, I will use the concept of the so-called CRISP-DM process in data mining to guide the thinking of the notebook. CRISP stands for Cross-Industry Standard Process for Data Mining, including Business Understanding, Data Understanding, Prepare Data, Data Analysis, Evaluate the Results, and Deployment.
 
 ## References:
 * How long before you get "Good" as bouldering, [kaggle kernel](https://www.kaggle.com/aarontrefler/how-long-before-you-get-good-at-bouldering), by Aaron Trefler
